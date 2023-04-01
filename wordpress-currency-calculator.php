@@ -185,7 +185,7 @@ echo '
           </div>
         </div>
         <div id="pc_exchange_rate">Getting exchange rate...</div>
-        <button id="pc_currency_btn">Get Exchange Rate</button>
+        <button id="pc_currency_btn">Estimated Fees</button>
       </form>
     </div>
 
